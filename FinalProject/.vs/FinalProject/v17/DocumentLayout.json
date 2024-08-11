@@ -1,0 +1,669 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5580EEA-41EE-410F-BF0E-D67F563E2506}|WebAPI\\WebAPI.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5580EEA-41EE-410F-BF0E-D67F563E2506}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5580EEA-41EE-410F-BF0E-D67F563E2506}|WebAPI\\WebAPI.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5580EEA-41EE-410F-BF0E-D67F563E2506}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|solutionrelative:business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\business\\concreate\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|solutionrelative:business\\concreate\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\business\\concreate\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|solutionrelative:business\\concreate\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\aspects\\autofac\\caching\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\caching\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\crosscuttingconcerns\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\crosscuttingconcerns\\caching\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\caching\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\aspects\\autofac\\caching\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\caching\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\interceptors\\methodinterceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\methodinterceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\business\\businessaspects\\autofac\\securedoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|solutionrelative:business\\businessaspects\\autofac\\securedoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\ioc\\icoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\ioc\\icoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\results\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\ioc\\servicetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\ioc\\servicetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\results\\idataresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\idataresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|solutionrelative:business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5580EEA-41EE-410F-BF0E-D67F563E2506}|WebAPI\\WebAPI.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5580EEA-41EE-410F-BF0E-D67F563E2506}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\business\\concreate\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|solutionrelative:business\\concreate\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|solutionrelative:business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E1A8B0-DBF9-467C-A206-EE035D0E7E5B}|Entities\\Entities.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\entities\\dtos\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E1A8B0-DBF9-467C-A206-EE035D0E7E5B}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E1A8B0-DBF9-467C-A206-EE035D0E7E5B}|Entities\\Entities.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E1A8B0-DBF9-467C-A206-EE035D0E7E5B}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E1A8B0-DBF9-467C-A206-EE035D0E7E5B}|Entities\\Entities.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E1A8B0-DBF9-467C-A206-EE035D0E7E5B}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6E8D9-F652-4D77-9788-9A921525C3AA}|Business\\Business.csproj|solutionrelative:business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D14DE-A550-4206-8966-892B87AC4E75}|DataAccess\\DataAccess.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\dataaccess\\concreate\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44D14DE-A550-4206-8966-892B87AC4E75}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concreate\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D14DE-A550-4206-8966-892B87AC4E75}|DataAccess\\DataAccess.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\dataaccess\\concreate\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44D14DE-A550-4206-8966-892B87AC4E75}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concreate\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44D14DE-A550-4206-8966-892B87AC4E75}|DataAccess\\DataAccess.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\dataaccess\\abstract\\iuserdal .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44D14DE-A550-4206-8966-892B87AC4E75}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iuserdal .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5580EEA-41EE-410F-BF0E-D67F563E2506}|WebAPI\\WebAPI.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5580EEA-41EE-410F-BF0E-D67F563E2506}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\entities\\concreate\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\entities\\concreate\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\entities\\concreate\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\entities\\concreate\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|c:\\users\\90534\\desktop\\c# dersleri\\finalproject\\core\\entities\\concreate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3DCC4-9232-4729-B2C7-77794C2FB783}|Core\\Core.csproj|solutionrelative:core\\entities\\concreate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MethodInterceptions.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Interceptors\\MethodInterceptions.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\MethodInterceptions.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Interceptors\\MethodInterceptions.cs",
+              "RelativeToolTip": "Core\\Utilities\\Interceptors\\MethodInterceptions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:21:43.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CacheAspect.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAtwCMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:03:38.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemoryCacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:12:24.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:01:34.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SecuredOperation.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\BusinessAspects\\Autofac\\SecuredOperation.cs",
+              "RelativeDocumentMoniker": "Business\\BusinessAspects\\Autofac\\SecuredOperation.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\BusinessAspects\\Autofac\\SecuredOperation.cs",
+              "RelativeToolTip": "Business\\BusinessAspects\\Autofac\\SecuredOperation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:51:04.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Concreate\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concreate\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Concreate\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concreate\\ProductManager.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:31:22.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA0wCUAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:33:29.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CacheRemoveAspect.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:32:48.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:38:54.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:08:34.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Constants\\Messages.cs",
+              "RelativeToolTip": "Business\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:50:30.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Concreate\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concreate\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Concreate\\AuthManager.cs",
+              "RelativeToolTip": "Business\\Concreate\\AuthManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:38:47.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataResult.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Results\\DataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\DataResult.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Results\\DataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\DataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:17:22.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICoreModule.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\IoC\\ICoreModule.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\IoC\\ICoreModule.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\IoC\\ICoreModule.cs",
+              "RelativeToolTip": "Core\\Utilities\\IoC\\ICoreModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:42:45.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Core\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:53:42.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:49:37.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDataResults.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Results\\IDataResults.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\IDataResults.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Results\\IDataResults.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\IDataResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:58:24.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceTool.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\IoC\\ServiceTool.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\IoC\\ServiceTool.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\IoC\\ServiceTool.cs",
+              "RelativeToolTip": "Core\\Utilities\\IoC\\ServiceTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:02:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwCAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:20:07.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:15:45.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Entities\\Dtos\\ProductDetailDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Dtos\\ProductDetailDto.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Entities\\Dtos\\ProductDetailDto.cs",
+              "RelativeToolTip": "Entities\\Dtos\\ProductDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:37:26.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Concreate\\UserManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concreate\\UserManager.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Concreate\\UserManager.cs",
+              "RelativeToolTip": "Business\\Concreate\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:38:00.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserForRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Entities\\Dtos\\UserForRegisterDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Dtos\\UserForRegisterDto.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Entities\\Dtos\\UserForRegisterDto.cs",
+              "RelativeToolTip": "Entities\\Dtos\\UserForRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:33:49.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserForLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Entities\\Dtos\\UserForLoginDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Dtos\\UserForLoginDto.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Entities\\Dtos\\UserForLoginDto.cs",
+              "RelativeToolTip": "Entities\\Dtos\\UserForLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:33:18.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Abstract\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Abstract\\IAuthService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IAuthService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:30:07.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Business\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:27:31.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EfUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\DataAccess\\Concreate\\EntityFramework\\EfUserDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concreate\\EntityFramework\\EfUserDal.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\DataAccess\\Concreate\\EntityFramework\\EfUserDal.cs",
+              "RelativeToolTip": "DataAccess\\Concreate\\EntityFramework\\EfUserDal.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:22:27.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\DataAccess\\Concreate\\EntityFramework\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concreate\\EntityFramework\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\DataAccess\\Concreate\\EntityFramework\\NorthwindContext.cs",
+              "RelativeToolTip": "DataAccess\\Concreate\\EntityFramework\\NorthwindContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:23:58.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserDal .cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\DataAccess\\Abstract\\IUserDal .cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IUserDal .cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\DataAccess\\Abstract\\IUserDal .cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IUserDal .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:20:48.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:35:53.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccessToken.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:36:10.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SigningCredentialsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:27:24.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SecurityKeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:12:37.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HashingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:17:31.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:42:50.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T12:35:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TokenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:40:52.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserOperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Entities\\Concreate\\UserOperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concreate\\UserOperationClaim.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Entities\\Concreate\\UserOperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concreate\\UserOperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:34:18.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Entities\\Concreate\\OperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concreate\\OperationClaim.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Entities\\Concreate\\OperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concreate\\OperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:33:32.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Entities\\Concreate\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concreate\\User.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\C# Dersleri\\FinalProject\\Core\\Entities\\Concreate\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\Concreate\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:56:34.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
